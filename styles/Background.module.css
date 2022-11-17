@@ -1,0 +1,25 @@
+.heroContainer {
+	background-image: url(../public/backgrounds/hero.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: calc(100vh - 90px);
+	background-position: center;
+}
+
+.aboutContainer {
+	background-image: url(../public/backgrounds/about.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.joinUsContainer {
+	background-image: url(../public/backgrounds/join.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.newsletterBackground {
+	background-image: url(../public/backgrounds/newsletter.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
